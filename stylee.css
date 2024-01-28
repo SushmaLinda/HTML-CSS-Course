@@ -1,0 +1,9 @@
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+nav{
+    background-color: black;
+}
